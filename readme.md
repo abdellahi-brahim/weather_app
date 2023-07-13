@@ -54,9 +54,10 @@ The following dependencies are used in this application:
 - Recharts: A charting library for React.
 - TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 
-## Contributing
+## Screenshots
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+![image](https://github.com/abdellahi-brahim/weather_app/assets/79083991/08283571-55b2-421a-852c-16fab1e1ac4f)
+
 
 ## License
 
