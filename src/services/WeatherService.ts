@@ -1,10 +1,7 @@
 import axios, { AxiosResponse } from 'axios';
 import { WeatherDataItem } from '../types/WeatherDataItem';
-import dotenv from 'dotenv';
 
-dotenv.config();
-
-const BASE_URL = process.env.WEATHER_API_BASE_URL as string;
+const BASE_URL = process.env.REACT_APP_WEATHER_API_BASE_URL as string;
 
 export const getWeatherData = (
   location: string,
